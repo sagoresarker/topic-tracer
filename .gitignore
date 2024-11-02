@@ -1,0 +1,7 @@
+files/*
+files/.DS_Store
+files
+bin
+pdf_index.gob
+search
+topic-tracer
